@@ -52,3 +52,10 @@
     font-weight: 500;
     text-transform: uppercase;
 }
+
+.testimonial-pic {
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
